@@ -1,2 +1,45 @@
-# Three-Kingdoms-Assistant
-Three Kingdoms Assistant
+# 隱私權政策
+
+感謝您使用本應用程式（以下簡稱「本 App」）。本隱私權政策將說明我們如何蒐集、使用、保護您的個人資料。使用本 App，即表示您同意本政策的內容。
+
+## 一、資料蒐集與使用
+
+本 App 可能會透過第三方服務（如 Firebase）收集以下資訊，用以改善產品品質與用戶體驗：
+
+- 裝置資訊（裝置型號、作業系統版本）
+- 應用使用情形（啟動次數、停留時間、錯誤紀錄）
+- 廣告互動（若有整合廣告服務）
+
+這些資料**不會用於識別個人身份**，僅用於統計與服務優化。
+
+## 二、第三方服務提供者
+
+本 App 可能會使用以下第三方服務，請參考其隱私權政策：
+
+- Firebase Analytics: https://firebase.google.com/support/privacy
+- Google Play Services: https://policies.google.com/privacy
+- AdMob（若有使用）: https://support.google.com/admob/answer/6128543
+
+## 三、資料分享
+
+我們**不會將您的個人資訊提供給任何第三方**，除非基於法律要求或為了保護我們的合法權益。
+
+## 四、資料安全
+
+我們採取合理技術與管理措施，保護您的資訊不被未經授權存取、洩漏或濫用。
+
+## 五、使用者權利
+
+您可以隨時透過下列方式聯繫我們，要求查詢、修改或刪除您提供的資料（如有）：
+
+- Email：fgm@fantasticgamemeet.com
+
+## 六、政策更新
+
+我們保留隨時更新本隱私政策之權利。您可以透過本頁面查看最新版本。
+
+## 七、聯絡我們
+
+如您對本隱私政策有任何疑問，請聯繫我們：
+
+- Email：fgm@fantasticgamemeet.com
